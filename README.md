@@ -1,14 +1,8 @@
-# GitHub User Search 🔍
+<div align="center">
+<h1 align="center">🔍 GitHub User Search</h1>
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
-
-A responsive web application built with **React** and **Tailwind CSS** that allows users to search for GitHub profiles and view their details using the GitHub API.
-
-[**🔴 LIVE DEMO**](https://your-project-name.vercel.app/)
-
-<div align="center">
-<h1 align="center">🔍 GitHub User Search</h1>
 
 A responsive web application built with **React** and **Tailwind CSS** that allows users to search for GitHub profiles and view their details using the GitHub API.
 
