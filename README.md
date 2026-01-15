@@ -51,7 +51,7 @@ Follow these steps to run the project locally on your machine.
 
 ### Prerequisites
 
-- Node.js (v14 or higher)
+- Node.js
 - npm or yarn
 
 ### Installation
@@ -59,7 +59,7 @@ Follow these steps to run the project locally on your machine.
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/Amine4jh/github-user-search.git](https://github.com/Amine4jh/github-user-search.git)
+    git clone https://github.com/Amine4jh/github-user-search.git
     cd github-user-search
     ```
 
@@ -83,9 +83,7 @@ Follow these steps to run the project locally on your machine.
 
 ---
 
-## ⚙️ Configuration (Optional)
-
-The GitHub API has a rate limit of 60 requests per hour for unauthenticated requests. If you plan to make many requests or extend this project, you should create a Personal Access Token.
+## ⚙️ Configuration
 
 1.  Create a `.env` file in the root directory.
 2.  Add your GitHub Token:
@@ -97,7 +95,8 @@ The GitHub API has a rate limit of 60 requests per hour for unauthenticated requ
 
 ## 👤 Author
 
-Amine Ajaha
+**Amine Ajaha**
+
 GitHub: @Amine4jh
 
 LinkedIn: [Amine Ajaha](https://www.linkedin.com/in/amineajaha/)
