@@ -21,7 +21,7 @@ A responsive web application built with **React** and **Tailwind CSS** that allo
 ## ✨ Features
 
 - **Search Functionality:** Real-time search for any GitHub user.
-- **User Details:** Displays avatar, name, bio, follower counts, following counts, and public repositories.
+- **User Details:** Displays avatar, username and public repositories.
 - **Responsive Design:** Fully optimized for desktop, tablet, and mobile devices using Tailwind CSS.
 - **API Integration:** Fetches data asynchronously using **Axios**.
 - **Error Handling:** Displays friendly error messages if a user does not exist.
@@ -33,15 +33,6 @@ A responsive web application built with **React** and **Tailwind CSS** that allo
 - **HTTP Client:** [Axios](https://axios-http.com/)
 - **API:** [GitHub REST API](https://docs.github.com/en/rest)
 - **Deployment:** [Vercel](https://vercel.com/)
-
-## 📂 Sections Included
-
-1.  **Hero:** Introduction with Call-to-Action (CV/Contact).
-2.  **About Me:** Personal bio section.
-3.  **Tech Stack:** Grid layout of skills and technologies.
-4.  **Projects:** Card-based grid with hover effects and links to GitHub/Live demos.
-5.  **Experience & Education:** Vertical timeline or list view.
-6.  **Contact:** Static contact form and social links.
 
 ---
 
